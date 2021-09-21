@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - background
+  - frontground
+  - cherry
+  - Enemies
+  - dimond
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - FrontGround
+  - BackGround
+  - Ground
+  - things
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3834515113
+    locked: 0
+  - name: FrontGround
+    uniqueID: 2719459067
+    locked: 0
+  - name: Enemies
+    uniqueID: 2309402157
+    locked: 0
+  - name: things
+    uniqueID: 1602816577
+    locked: 0
