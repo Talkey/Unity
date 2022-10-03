@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 916550231
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: sphere.unity3d
+      Dependencies: {}
